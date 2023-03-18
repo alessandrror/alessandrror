@@ -1,7 +1,7 @@
 ### ✨ Hey Hi Hello ✨
 
 # 💫 About Me:
-👋 Hi, I’m Alessandro Rivas 
+👋 Hi, I’m Alessandro Rivas<br>
 🔭 I'm currently working on JavaScript and PHP projects<br>
 👀 I’m interested in developing my programming and soft skills<br>
 🌱 I’m currently learning JavaScript, Python and PHP <br>
