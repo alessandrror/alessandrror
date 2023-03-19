@@ -8,6 +8,9 @@
 💞️ I’m looking to collaborate on any JavaScript projects!<br>
 📫 How to reach me? Contact me on any of my social networks!
 
+---
+[![](https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDBqlngHRBpMxVtNnzDqJPfJPbzRxJvQgSlsFgbCfLhSwRjBPbkqMxJwMLHVRcmkdhJgB)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/alessandrror) 
@@ -18,9 +21,6 @@
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://facebook.com/Alessandrro.r)
 [![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/alessandrror) 
 [![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/Alessandrror)
-
----
-[![](https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stacks:
 
