@@ -1,8 +1,8 @@
 # ✨ Hey Hi Hello ✨
-👋 Hi, I’m Alessandro Rivas
+👋 Hi, I’m Alessandro Rivas 
 
 # 💫 About Me:
-🔭 I'm currently working on JavaScript and PHP projects<br>
+🔭 I'm currently working on JavaScript, Python and PHP projects<br>
 👀 I’m interested in developing my programming and soft skills<br>
 🌱 I’m currently learning JavaScript, Python and PHP <br>
 💞️ I’m looking to collaborate on any JavaScript projects!<br>
