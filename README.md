@@ -1,13 +1,12 @@
 # ✨ Hey Hi Hello ✨
+👋 Hi, I’m Alessandro Rivas
 
 # 💫 About Me:
-👋 Hi, I’m Alessandro Rivas<br>
 🔭 I'm currently working on JavaScript and PHP projects<br>
 👀 I’m interested in developing my programming and soft skills<br>
 🌱 I’m currently learning JavaScript, Python and PHP <br>
 💞️ I’m looking to collaborate on any JavaScript projects!<br>
 📫 How to reach me? Contact me on any of my social networks!
-
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDBqlngHRBpMxVtNnzDqJPfJPbzRxJvQgSlsFgbCfLhSwRjBPbkqMxJwMLHVRcmkdhJgB)
@@ -86,11 +85,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandrror) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
