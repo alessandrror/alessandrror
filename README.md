@@ -19,6 +19,9 @@
 [![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/alessandrror) 
 [![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/Alessandrror)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12)](https://visitcount.itsvg.in)
+
 # 💻 Tech Stacks:
 
 ## Techs I use:
@@ -82,8 +85,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
