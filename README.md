@@ -1,5 +1,5 @@
 # ✨ Hey Hi Hello ✨
-👋 Hi, I’m Alessandro Rivas 
+### 👋 Hi, I’m Alessandro Rivas 
 
 # 💫 About Me:
 🔭 I'm currently working on JavaScript, Python and PHP projects<br>
@@ -49,7 +49,7 @@
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) 
 ![Photopea](https://img.shields.io/static/v1?style=for-the-badge&message=Photopea&color=18A497&logo=Photopea&logoColor=FFFFFF&label=) 
 
-## Techs I'm learning
+## Techs I'm learning:
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=) 
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) 
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=) 
