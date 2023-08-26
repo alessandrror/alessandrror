@@ -1,11 +1,12 @@
 # ✨ Hey Hi Hello ✨
-### 👋 Hi, I’m Alessandro Rivas 
+### 👋🏻 Hi, I’m Alessandro Rivas 
 
 # 💫 About Me:
-🔭 I'm currently working on JavaScript, Python and PHP projects<br>
-👀 I’m interested in developing my programming and soft skills<br>
-🌱 I’m currently learning JavaScript, Python and PHP <br>
-💞️ I’m looking to collaborate on any JavaScript projects!<br>
+🔭 Currently working on JavaScript and PHP projects<br>
+👀 Interested in developing my programming and soft skills with JavaScript and Python<br>
+👨🏻‍💻 Experience working with some JavaScript frameworks like Alpine and jQuery<br>
+🌱 Currently learning React and Vue as a Frontend and Nodejs, Express and Nextjs as a Backend<br>
+💞️ Looking to collaborate on any JavaScript projects!<br>
 📫 How to reach me? Contact me on any of my social networks!
 
 ---
@@ -14,9 +15,11 @@
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:ssandrorivas@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/alessandrror) 
+<!--
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://instagram.com/alessandrro.r)
 [![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/uninsolent?si=c9edc4229fb24fa4)
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com/users/409197150963236884)
+-->
 [![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/alessandrror) 
 [![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/Alessandrror)
 
@@ -77,10 +80,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alessandrror&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
+<!--
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Alessandrror)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
