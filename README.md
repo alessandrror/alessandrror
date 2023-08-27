@@ -20,121 +20,202 @@
 
 ---
 ### 💻 Technologies
-<div style="text-align:center;">
-
 ##
 #### 🎒 Current stack
-[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Markdown](https://skillicons.dev/icons?i=markdown)](https://www.markdownguide.org/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
-[![Alpine.js](https://skillicons.dev/icons?i=alpinejs)](https://alpinejs.dev/)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![PHP](https://skillicons.dev/icons?i=php)](https://php.net/)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linuxmint.com/)
+<div style="text-align:center;">
+    <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code">
+    </a>
+    <a href="https://www.markdownguide.org/">
+        <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown">
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git">
+    </a>
+    <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+    </a>
+    <a href="https://www.figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3">
+    </a>
+    <a href="https://sass-lang.com/">
+        <img src="https://skillicons.dev/icons?i=sass" alt="Sass">
+    </a>
+    <a href="https://getbootstrap.com/">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    </a>
+    <a href="https://jquery.com/">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery">
+    </a>
+    <a href="https://alpinejs.dev/">
+        <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js">
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python">
+    </a>
+    <a href="https://php.net/">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP">
+    </a>
+    <a href="https://laravel.com/">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel">
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+    </a>
+    <a href="https://www.postman.com/">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman">
+    </a>
+    <a href="https://aws.amazon.com/">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS">
+    </a>
+    <a href="https://linuxmint.com/">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
+    </a>
 </div>
 
 ##
 
-<div style="text-align:center">
-
 #### 📖 Learning process
 #### 🤓 About software development
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
-[![MaterialUI](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
-[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
-[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/2.3.x/)
+<div style="text-align:center">
+    <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS">
+    </a>
+    <a href="https://mui.com/">
+        <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
+    </a>
+    <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" alt="React">
+    </a>
+    <a href="https://vuejs.org/">
+        <img src="https://skillicons.dev/icons?i=vue" alt="Vue">
+    </a>
+    <a href="https://svelte.dev/">
+        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte">
+    </a>
+    <a href="https://vitejs.dev/">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite">
+    </a>
+    <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+    </a>
+    <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+    </a>
+    <a href="https://vercel.com/">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel">
+    </a>
+    <a href="https://jestjs.io/">
+        <img src="https://skillicons.dev/icons?i=jest" alt="Jest">
+    </a>
+    <a href="https://www.djangoproject.com/">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django">
+    </a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask">
+    </a>
 </div>
 <div style="display:flex;gap:2rem;text-align:center;">
 <div>
 
 #### 🕹️ About systems
-[![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/)
-[![vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
+
+<a href="https://www.gnu.org/">
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash">
+</a>
+<a href="https://www.vim.org/">
+    <img src="https://skillicons.dev/icons?i=vim" alt="vim">
+</a>
 </div>
 <div>
 
 #### ☁ About DevOps
-[![Google Cloud](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+<a href="https://cloud.google.com/">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud">
+</a>
+<a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
+</a>
 </div>
 <div>
 
 #### 🤖 About machine learning
-[![pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+<a href="https://pytorch.org/">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch">
+</a>
+<a href="https://www.tensorflow.org/">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow">
+</a>
 </div>
 <div>
 
 #### 🏀 About IOT as a hobby
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-[![Raspberry](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/)
+<a href="https://www.arduino.cc/">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino">
+</a>
+<a href="https://www.raspberrypi.org/">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry">
+</a>
 </div>
 </div>
 
 <!-- Lock for later -->
-<!-- [![Deno](https://skillicons.dev/icons?i=deno)](https://deno.com/)
-[![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
-[![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/)
-[![Fastapi](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![Graphql](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
-[![Nestjs](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
-[![Threejs](https://skillicons.dev/icons?i=threejs)](https://threejs.org/) -->
-
-<!-- [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/en-us/dotnet/)
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) -->
+<!-- <a href="https://deno.com/">
+        <img src="https://skillicons.dev/icons?i=deno" alt="Deno">
+    </a>
+    <a href="https://about.gitlab.com/">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab">
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+    </a>
+    <a href="https://kubernetes.io/">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes">
+    </a>
+    <a href="https://www.electronjs.org/">
+        <img src="https://skillicons.dev/icons?i=electron" alt="Electron">
+    </a>
+    <a href="https://fastapi.tiangolo.com/">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="Fastapi">
+    </a>
+    <a href="https://graphql.org/">
+        <img src="https://skillicons.dev/icons?i=graphql" alt="Graphql">
+    </a>
+    <a href="https://nestjs.com/">
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs">
+    </a>
+    <a href="https://threejs.org/">
+        <img src="https://skillicons.dev/icons?i=threejs" alt="Threejs">
+    </a> -->
 ---
 ### 📊 Profile's stats
 [![](https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12)](https://visitcount.itsvg.in)
 #### 🏆 And trophies
-<div style="display:flex;gap:2rem;text-align:center;">
-<div>
-
 ![](https://github-readme-stats.vercel.app/api?username=Alessandrror&theme=dark&hide_border=true)
-</div>
-<div>
-
-![](https://github-profile-trophy.vercel.app/?username=Alessandrror&theme=dark&no-frame=true&no-bg=true)
-</div>
-</div>
-<div style="display:flex;gap:2rem;">
-<div>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=alessandrror&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alessandrror&theme=dark&hide_border=true&no-bg=true)
-</div>
-<div>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&hide_border=true&layout=compact)
-</div>
-</div>
-<!--
-#### 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Alessandrror)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
--->
+<!-- #### 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Alessandrror)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
+<!-- <p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=uninsolent&count=10">
+</p> -->
