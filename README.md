@@ -21,8 +21,9 @@
 ---
 ### 💻 Technologies
 ##
-#### 🎒 Current stack
-<div style="text-align:center;">
+
+<h3 align="center">🎒 Current stack</h3>
+<p align="center">
     <a href="https://code.visualstudio.com/">
         <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code">
     </a>
@@ -80,13 +81,12 @@
     <a href="https://linuxmint.com/">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
     </a>
-</div>
+</p>
 
 ##
-
-#### 📖 Learning process
-#### 🤓 About software development
-<div style="text-align:center">
+<h4 align="center">📖 Learning process</h4>
+<h4 align="center">🤓 About software development</h4>
+<p align="center">
     <a href="https://tailwindcss.com/">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS">
     </a>
@@ -129,50 +129,43 @@
     <a href="https://flask.palletsprojects.com/en/2.3.x/">
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask">
     </a>
-</div>
-<div style="display:flex;gap:2rem;text-align:center;">
-<div>
-
-#### 🕹️ About systems
-
-<a href="https://www.gnu.org/">
-    <img src="https://skillicons.dev/icons?i=bash" alt="bash">
-</a>
-<a href="https://www.vim.org/">
-    <img src="https://skillicons.dev/icons?i=vim" alt="vim">
-</a>
-</div>
-<div>
-
-#### ☁ About DevOps
-<a href="https://cloud.google.com/">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud">
-</a>
-<a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
-</a>
-</div>
-<div>
-
-#### 🤖 About machine learning
-<a href="https://pytorch.org/">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch">
-</a>
-<a href="https://www.tensorflow.org/">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow">
-</a>
-</div>
-<div>
-
-#### 🏀 About IOT as a hobby
-<a href="https://www.arduino.cc/">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino">
-</a>
-<a href="https://www.raspberrypi.org/">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry">
-</a>
-</div>
-</div>
+</p>
+<h4 align="center">🕹️ About systems</h4>
+<p align="center" width="200">
+    <a href="https://www.gnu.org/">
+        <img src="https://skillicons.dev/icons?i=bash" alt="bash">
+    </a>
+    <a href="https://www.vim.org/">
+        <img src="https://skillicons.dev/icons?i=vim" alt="vim">
+    </a>
+</p>
+<h4 align="center">☁ About DevOps</h4>
+<p align="center" width="200">
+    <a href="https://cloud.google.com/">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud">
+    </a>
+    <a href="https://firebase.google.com/">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
+    </a>
+</p>
+<h4 align="center">🤖 About machine learning</h4>
+<p align="center" width="200">
+    <a href="https://pytorch.org/">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch">
+    </a>
+    <a href="https://www.tensorflow.org/">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow">
+    </a>
+</p>
+<h4 align="center">🏀 About IOT as a hobby</h4>
+<p align="center" width="200">
+    <a href="https://www.arduino.cc/">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino">
+    </a>
+    <a href="https://www.raspberrypi.org/">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry">
+    </a>
+</p>
 
 <!-- Lock for later -->
 <!-- <a href="https://deno.com/">
@@ -203,13 +196,30 @@
         <img src="https://skillicons.dev/icons?i=threejs" alt="Threejs">
     </a> -->
 ---
-### 📊 Profile's stats
-[![](https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12)](https://visitcount.itsvg.in)
-#### 🏆 And trophies
-![](https://github-readme-stats.vercel.app/api?username=Alessandrror&theme=dark&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=alessandrror&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alessandrror&theme=dark&hide_border=true&no-bg=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&hide_border=true&layout=compact)
+<h3>📊 Profile's stats</h3>
+<a href="https://visitcount.itsvg.in/">
+    <img align="center" src="https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12" alt="Visit Count Github">
+</a>
+<p align="center">
+</p>
+<!-- To add more stats use: &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage in the query params -->
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/">
+        <img height="133" align="center" src="https://github-readme-stats.vercel.app/api?username=Alessandrror&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&" alt="Visit Count Github">
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com/">
+        <img height="133" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandrror&theme=transparent&hide_border=true" alt="Stats Streak Github">
+    </a>
+    <a href="https://github-readme-stats.vercel.app/">
+        <img height="133" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=donut" alt="Raspberry">
+    </a>
+</p>
+<h4 align="center">🏆 And trophies</h4>
+<p align="center">
+    <a href="https://github-profile-trophy.vercel.app/">
+        <img src="https://github-profile-trophy.vercel.app/?username=alessandrror&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&bg=true&column=7" alt="Trophies Profile Gihub">
+    </a>
+</p>
 <!-- #### 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Alessandrror)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 <!-- ### ✍️ Random Dev Quote
