@@ -131,7 +131,7 @@
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask">
     </a>
 </p>
-<h4 align="center">🕹️ About systems</h4>
+<!-- <h4 align="center">🕹️ About systems</h4>
 <p align="center" width="200">
     <a href="https://www.gnu.org/">
         <img src="https://skillicons.dev/icons?i=bash" alt="bash">
@@ -166,8 +166,7 @@
     <a href="https://www.raspberrypi.org/">
         <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry">
     </a>
-</p>
-
+</p> -->
 <!-- Lock for later -->
 <!-- <a href="https://deno.com/">
         <img src="https://skillicons.dev/icons?i=deno" alt="Deno">
@@ -196,10 +195,11 @@
     <a href="https://threejs.org/">
         <img src="https://skillicons.dev/icons?i=threejs" alt="Threejs">
     </a> -->
+    
 ---
 <h3>📊 Profile's stats</h3>
-<a href="https://visitcount.itsvg.in/">
-    <img align="center" src="https://visitcount.itsvg.in/api?id=Alessandrror&icon=0&color=12" alt="Visit Count Github">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Alessandrror&label=Profile%20Views&color=12&icon=4&pretty=true" alt="Visit Count Github"/>
 </a>
 <p align="center">
 </p>
