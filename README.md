@@ -168,7 +168,10 @@
     </a>
 </p> -->
 <!-- Lock for later -->
-<!-- <a href="https://deno.com/">
+<!-- <a href="">
+        <img src="https://skillicons.dev/icons?i=astro" alt="Astro">
+    </a> 
+    <a href="https://deno.com/">
         <img src="https://skillicons.dev/icons?i=deno" alt="Deno">
     </a>
     <a href="https://about.gitlab.com/">
@@ -194,6 +197,21 @@
     </a>
     <a href="https://threejs.org/">
         <img src="https://skillicons.dev/icons?i=threejs" alt="Threejs">
+    </a> 
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C sharp">
+    </a> 
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C plus plus">
+    </a> 
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet">
+    </a> 
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet">
+    </a> 
+    <a href="https://bun.sh/">
+        <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun">
     </a> -->
     
 ---
