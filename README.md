@@ -230,7 +230,7 @@
         <img height="133" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandrror&theme=transparent&hide_border=true" alt="Stats Streak Github">
     </a>
     <a href="https://github-readme-stats.vercel.app/">
-        <img height="133" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=donut" alt="Raspberry">
+        <img height="133" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=donut&langs_count=15" alt="Raspberry">
     </a>
 </p>
 <h4 align="center">🏆 And trophies</h4>
