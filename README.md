@@ -85,7 +85,7 @@
 </p>
 
 ##
-<h4 align="center">📖 Learning process</h4>
+<h3 align="center">📖 Learning process</h3>
 <h4 align="center">🤓 About software development</h4>
 <p align="center">
     <a href="https://tailwindcss.com/">
@@ -224,13 +224,13 @@
 <!-- To add more stats use: &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage in the query params -->
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
-        <img height="133" align="center" src="https://github-readme-stats.vercel.app/api?username=Alessandrror&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&" alt="Visit Count Github">
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Alessandrror&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&" alt="Visit Count Github">
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/">
-        <img height="133" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandrror&theme=transparent&hide_border=true" alt="Stats Streak Github">
+        <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandrror&theme=transparent&hide_border=true" alt="Stats Streak Github">
     </a>
     <a href="https://github-readme-stats.vercel.app/">
-        <img height="133" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=donut&langs_count=6" alt="Raspberry">
+        <img height="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=compact&langs_count=16" alt="Languages">
     </a>
 </p>
 <h4 align="center">🏆 And trophies</h4>
