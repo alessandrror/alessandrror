@@ -233,12 +233,17 @@
         <img height="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=compact&langs_count=16" alt="Languages">
     </a>
 </p>
-<h4 align="center">🏆 And trophies</h4>
+<h4 align="center">🏆 Trophies</h4>
 <p align="center">
     <a href="https://github-profile-trophy.vercel.app/">
         <img src="https://github-profile-trophy.vercel.app/?username=alessandrror&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&bg=true&column=7" alt="Trophies Profile Gihub">
     </a>
 </p>
+
+<h4 align="center">🦖 And my Holopins</h4>
+
+[![An image of @alessandrror's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alessandrror)](https://holopin.io/@alessandrror)
+
 <!-- #### 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Alessandrror)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 <!-- ### ✍️ Random Dev Quote
