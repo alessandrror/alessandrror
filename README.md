@@ -2,7 +2,7 @@
 ### 👋🏻 Hi, I’m Alessandro Rivas
 #### 💫 About me
 - 💯 Developed ***UI's*** for systems ***to go from face-to-face procedures to online procedures***
-- 👀 Interested in ***level up*** my programming skills with ***JavaScript*** and ***Python***
+- 👀 Interested in ***level up*** my programming skills with ***JavaScript***, ***Python*** and ***Rust***
 - 🔭 Currently ***working*** on ***JavaScript*** and ***PHP*** projects
 - 👨🏻‍💻 Experience ***working*** with some ***JavaScript*** frameworks like ***Alpine*** and ***jQuery***
 - 🌱 Currently learning ***React*** and ***Vue*** as a ***Frontend*** and ***Nodejs***, ***Express*** and ***Nextjs*** as a ***Backend***
@@ -59,7 +59,10 @@
         <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery">
     </a>
     <a href="https://alpinejs.dev/">
-        <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js">
+        <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine">
+    </a>
+    <a href="https://astro.build/">
+        <img src="https://skillicons.dev/icons?i=astro" alt="Astro">
     </a>
     <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=py" alt="Python">
