@@ -2,20 +2,19 @@
 ### 👋🏻 Hi, I’m Alessandro Rivas
 #### 💫 About me
 - 💯 Developed ***UI's*** for systems ***to go from face-to-face procedures to online procedures***
-- 👀 Interested in ***level up*** my programming skills with ***JavaScript***, ***Python*** and ***Rust***
 - 🔭 Currently ***working*** on ***JavaScript*** and ***PHP*** projects
-- 👨🏻‍💻 Experience ***working*** with some ***JavaScript*** frameworks like ***Alpine*** and ***jQuery***
-- 🌱 Currently learning ***React*** and ***Vue*** as a ***Frontend*** and ***Nodejs***, ***Express*** and ***Nextjs*** as a ***Backend***
-- 💞️ Looking to ***collaborate*** on any ***JavaScript projects!***
+- 👀 Interested in ***level up*** my programming skills with ***JavaScript***, ***Python*** and ***Rust***
+- 💞️ Looking to ***collaborate*** on any ***JavaScript/TypeScript** or ***Python*** projects!
 - 📫 How to ***reach me***? Contact me on any of my ***social networks!***
 - 🍷 Would you like to watch my ***current GitHub's work account?*** Check out in ***<a href="https://github.com/alessandro-rivas-dev" target="_blank">alessandro-rivas-dev</a>***
 ---
 #### 🌐 Share code
 [![Codepen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/alessandrror)
 [![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/Alessandrror)
-<!-- [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:ssandrorivas@gmail.com)
+[![HackerRank](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=2DC866&logo=HackerRank&logoColor=FFFFFF&label=)](https://www.hackerrank.com/profile/Alessandrror)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:ssandrorivas@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://linkedin.com/in/alessandrror)
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://instagram.com/alessandrro.r)
+<!-- [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://instagram.com/alessandrro.r)
 [![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/uninsolent?si=c9edc4229fb24fa4)
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com/users/409197150963236884) -->
 
