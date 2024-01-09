@@ -105,6 +105,9 @@
     <a href="https://vuejs.org/">
         <img src="https://skillicons.dev/icons?i=vue" alt="Vue">
     </a>
+    <a href="https://angular.dev/">
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular">
+    </a>
     <a href="https://svelte.dev/">
         <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte">
     </a>
