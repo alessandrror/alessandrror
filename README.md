@@ -114,6 +114,12 @@
     <a href="https://vitejs.dev/">
         <img src="https://skillicons.dev/icons?i=vite" alt="Vite">
     </a>
+    <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs">
+    </a>
+    <a href="https://nuxt.com/">
+        <img src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt">
+    </a>
     <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
     </a>
