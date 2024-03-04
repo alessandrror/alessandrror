@@ -49,7 +49,7 @@
         <img src="https://skillicons.dev/icons?i=sass" width="32px" alt="Sass">
     </a>
     <a href="https://getbootstrap.com/">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="32px" alt="Bootstrap">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://skillicons.dev/icons?i=js" width="32px" alt="JavaScript">
