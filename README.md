@@ -238,20 +238,20 @@
 ---
 <h3>📊 Profile's stats</h3>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Alessandrror&label=Profile%20Views&color=12&icon=4&pretty=true" alt="Visit Count Github"/>
+  <img src="https://visitcount.itsvg.in/api?id=alessandrror&label=Profile%20Views&color=12&icon=4&pretty=true" alt="Visit Count Github"/>
 </a>
 <p align="center">
 </p>
 <!-- To add more stats use: &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage in the query params -->
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
-        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Alessandrror&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&" alt="Visit Count Github">
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=alessandrror&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&" alt="Visit Count Github">
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/">
-        <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandrror&theme=transparent&hide_border=true" alt="Stats Streak Github">
+        <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrror&theme=transparent&hide_border=true" alt="Stats Streak Github">
     </a>
     <a href="https://github-readme-stats.vercel.app/">
-        <img height="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=compact&langs_count=20" alt="Languages">
+        <img height="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=compact&langs_count=20" alt="Languages">
     </a>
 </p>
 <h4 align="center">🏆 Trophies</h4>
