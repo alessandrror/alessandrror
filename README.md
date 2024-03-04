@@ -1,14 +1,20 @@
 # ✨ Hey Hi Hello ✨
-### 👋🏻 Hi, I’m Alessandro Rivas
-#### 💫 About me
+
+## 👋🏻 Hi, I’m Alessandro Rivas
+
+### 💫 About me
+
 - 💯 Developed ***UI's*** for systems ***to go from face-to-face procedures to online procedures***
 - 🔭 Currently ***working*** on ***JavaScript*** and ***PHP*** projects
 - 👀 Interested in ***level up*** my programming skills with ***JavaScript***, ***Python*** and ***Rust***
 - 💞️ Looking to ***collaborate*** on any ***JavaScript/TypeScript** or ***Python*** projects!
 - 📫 How to ***reach me***? Contact me on any of my ***social networks!***
-- 🍷 Would you like to watch my ***current GitHub's work account?*** Check out in ***<a href="https://github.com/alessandro-rivas-dev" target="_blank">alessandro-rivas-dev</a>***
+- 🍷 Would you like to watch my ***current GitHub's work account?*** Check out in ***[alessandro-rivas-dev](https://github.com/alessandro-rivas-dev)***
+
 ---
-#### 🌐 Share code
+
+### 🌐 Share code
+
 [![Codepen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/alessandrror)
 [![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/Alessandrror)
 [![HackerRank](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=2DC866&logo=HackerRank&logoColor=FFFFFF&label=)](https://www.hackerrank.com/profile/Alessandrror)
@@ -19,8 +25,8 @@
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com/users/409197150963236884) -->
 
 ---
-### 💻 Technologies
-##
+
+## 💻 Technologies
 
 <h3 align="center">🎒 Current stack</h3>
 <p align="center">
@@ -218,24 +224,25 @@
     </a>
     <a href="https://threejs.org/">
         <img src="https://skillicons.dev/icons?i=threejs" width="32px" alt="Threejs">
-    </a> 
+    </a>
     <a href="">
         <img src="https://skillicons.dev/icons?i=cs" width="32px" alt="C sharp">
-    </a> 
+    </a>
     <a href="">
         <img src="https://skillicons.dev/icons?i=cpp" width="32px" alt="C plus plus">
-    </a> 
+    </a>
     <a href="">
         <img src="https://skillicons.dev/icons?i=dotnet" width="32px" alt="Dotnet">
-    </a> 
+    </a>
     <a href="">
         <img src="https://skillicons.dev/icons?i=dotnet" width="32px" alt="Dotnet">
-    </a> 
+    </a>
     <a href="https://bun.sh/">
         <img src="https://skillicons.dev/icons?i=bun" width="32px" alt="Bun">
     </a> -->
-    
+
 ---
+
 <h3>📊 Profile's stats</h3>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=alessandrror&label=Profile%20Views&color=12&icon=4&pretty=true" alt="Visit Count Github"/>
