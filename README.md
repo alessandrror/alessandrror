@@ -1,13 +1,13 @@
 # ✨ Hey Hi Hello ✨
 
-## 👋🏻 Hi, I’m Alessandro Rivas
+## 👋🏻 I’m Alessandro Rivas
 
 ### 💫 About me
 
 - 💯 Developed ***UI's*** for systems ***to go from face-to-face procedures to online procedures***
 - 🔭 Currently ***working*** on ***JavaScript*** and ***PHP*** projects
 - 👀 Interested in ***level up*** my programming skills with ***JavaScript***, ***Python*** and ***Rust***
-- 💞️ Looking to ***collaborate*** on any ***JavaScript/TypeScript** or ***Python*** projects!
+- 💞️ Looking to ***collaborate*** on any ***JavaScript/TypeScript*** or ***Python*** projects!
 - 📫 How to ***reach me***? Contact me on any of my ***social networks!***
 - 🍷 Would you like to watch my ***current GitHub's work account?*** Check out in ***[alessandro-rivas-dev](https://github.com/alessandro-rivas-dev)***
 
