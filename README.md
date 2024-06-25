@@ -66,6 +66,9 @@
     <a href="https://alpinejs.dev/">
         <img src="https://skillicons.dev/icons?i=alpinejs" width="32px" alt="Alpine">
     </a>
+    <a href="https://vitejs.dev/">
+        <img src="https://skillicons.dev/icons?i=vite" width="32px" alt="Vite">
+    </a>
     <a href="https://vuejs.org/">
         <img src="https://skillicons.dev/icons?i=vue" width="32px" alt="Vue">
     </a>
@@ -116,9 +119,6 @@
     </a>
     <a href="https://angular.dev/">
         <img src="https://skillicons.dev/icons?i=angular" width="32px" alt="Angular">
-    </a>
-    <a href="https://vitejs.dev/">
-        <img src="https://skillicons.dev/icons?i=vite" width="32px" alt="Vite">
     </a>
     <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="32px" alt="Nextjs">
