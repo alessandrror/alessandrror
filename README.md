@@ -102,6 +102,9 @@
     <a href="https://aws.amazon.com/">
         <img src="https://skillicons.dev/icons?i=aws" width="32px" alt="AWS">
     </a>
+    <a href="https://cloud.google.com/">
+        <img src="https://skillicons.dev/icons?i=gcp" width="32px" alt="Google Cloud Platform">
+    </a>
     <a href="https://linuxmint.com/">
         <img src="https://skillicons.dev/icons?i=linux" width="32px" alt="Linux">
     </a>
@@ -162,9 +165,6 @@
 </p>
 <h4 align="center">☁ About DevOps</h4>
 <p align="center" width="200">
-    <a href="https://cloud.google.com/">
-        <img src="https://skillicons.dev/icons?i=gcp" width="32px" alt="Google Cloud Platform">
-    </a>
     <a href="">
         <img src="https://skillicons.dev/icons?i=azure" width="32px" alt="Azure">
     </a>
