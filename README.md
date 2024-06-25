@@ -108,6 +108,9 @@
     <a href="https://linuxmint.com/">
         <img src="https://skillicons.dev/icons?i=linux" width="32px" alt="Linux">
     </a>
+    <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" width="32px" alt="Docker">
+    </a>
 </p>
 
 ##
