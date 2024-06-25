@@ -63,6 +63,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://skillicons.dev/icons?i=js" width="32px" alt="JavaScript">
     </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="32px" alt="TypeScript">
+    </a>
     <a href="https://jquery.com/">
         <img src="https://skillicons.dev/icons?i=jquery" width="32px" alt="jQuery">
     </a>
@@ -110,9 +113,6 @@
 <p align="center">
     <a href="https://mui.com/">
         <img src="https://skillicons.dev/icons?i=materialui" width="32px" alt="MaterialUI">
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="32px" alt="TypeScript">
     </a>
     <a href="https://react.dev/">
         <img src="https://skillicons.dev/icons?i=react" width="32px" alt="React">
