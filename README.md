@@ -57,6 +57,9 @@
     <a href="https://getbootstrap.com/">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="32px" alt="Bootstrap">
     </a>
+    <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" width="32px" alt="Tailwind CSS">
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://skillicons.dev/icons?i=js" width="32px" alt="JavaScript">
     </a>
@@ -105,9 +108,6 @@
 <h3 align="center">📖 Learning process</h3>
 <h4 align="center">🤓 About software development</h4>
 <p align="center">
-    <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" width="32px" alt="Tailwind CSS">
-    </a>
     <a href="https://mui.com/">
         <img src="https://skillicons.dev/icons?i=materialui" width="32px" alt="MaterialUI">
     </a>
