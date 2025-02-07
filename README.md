@@ -72,8 +72,8 @@
     <a href="https://alpinejs.dev/">
         <img src="https://skillicons.dev/icons?i=alpinejs" width="32px" alt="Alpine">
     </a>
-    <a href="https://vitejs.dev/">
-        <img src="https://skillicons.dev/icons?i=vite" width="32px" alt="Vite">
+    <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="32px" alt="React">
     </a>
     <a href="https://vuejs.org/">
         <img src="https://skillicons.dev/icons?i=vue" width="32px" alt="Vue">
@@ -83,6 +83,15 @@
     </a>
     <a href="https://astro.build/">
         <img src="https://skillicons.dev/icons?i=astro" width="32px" alt="Astro">
+    </a>
+    <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="32px" alt="Node.js">
+    </a>
+    <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="32px" alt="Express">
+    </a>
+    <a href="https://vitejs.dev/">
+        <img src="https://skillicons.dev/icons?i=vite" width="32px" alt="Vite">
     </a>
     <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=py" width="32px" alt="Python">
@@ -95,6 +104,9 @@
     </a>
     <a href="https://www.mysql.com/">
         <img src="https://skillicons.dev/icons?i=mysql" width="32px" alt="MySQL">
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="32px" alt="PostgreSQL">
     </a>
     <a href="https://www.postman.com/">
         <img src="https://skillicons.dev/icons?i=postman" width="32px" alt="Postman">
@@ -120,9 +132,6 @@
     <a href="https://mui.com/">
         <img src="https://skillicons.dev/icons?i=materialui" width="32px" alt="MaterialUI">
     </a>
-    <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="32px" alt="React">
-    </a>
     <a href="https://angular.dev/">
         <img src="https://skillicons.dev/icons?i=angular" width="32px" alt="Angular">
     </a>
@@ -131,12 +140,6 @@
     </a>
     <a href="https://nuxt.com/">
         <img src="https://skillicons.dev/icons?i=nuxt" width="32px" alt="Nuxt">
-    </a>
-    <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="32px" alt="Node.js">
-    </a>
-    <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="32px" alt="Express">
     </a>
     <a href="https://www.mongodb.com/">
         <img src="https://skillicons.dev/icons?i=mongodb" width="32px" alt="MongoDB">
