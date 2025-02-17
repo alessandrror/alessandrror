@@ -1,15 +1,15 @@
 # ✨ Hey Hi Hello ✨
 
-## 👋🏻 Hi, I’m Alessandro Rivas
+## 👋🏻 I’m Alessandro Rivas
 
 ### 💫 About me
 
 - 💯 Developed ***UI's*** for systems ***to go from face-to-face procedures to online procedures***
-- 🔭 Currently ***working*** on ***JavaScript*** and ***PHP*** projects
+- 🔭 Currently ***working*** on ***TypeScript*** with ***React*** projects
 - 👀 Interested in ***level up*** my programming skills with ***JavaScript***, ***Python*** and ***Rust***
-- 💞️ Looking to ***collaborate*** on any ***JavaScript/TypeScript** or ***Python*** projects!
+- 💞️ Looking to ***collaborate*** on any ***React*** or ***Vue*** frontend projects!
 - 📫 How to ***reach me***? Contact me on any of my ***social networks!***
-- 🍷 Would you like to watch my ***current GitHub's work account?*** Check out in ***[alessandro-rivas-dev](https://github.com/alessandro-rivas-dev)***
+- 🍷 Would you like to watch my ***old GitHub's work account?*** Check out in ***[alessandro-rivas-dev](https://github.com/alessandro-rivas-dev)***
 
 ---
 
@@ -57,14 +57,23 @@
     <a href="https://getbootstrap.com/">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="32px" alt="Bootstrap">
     </a>
+    <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" width="32px" alt="Tailwind CSS">
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://skillicons.dev/icons?i=js" width="32px" alt="JavaScript">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="32px" alt="TypeScript">
     </a>
     <a href="https://jquery.com/">
         <img src="https://skillicons.dev/icons?i=jquery" width="32px" alt="jQuery">
     </a>
     <a href="https://alpinejs.dev/">
         <img src="https://skillicons.dev/icons?i=alpinejs" width="32px" alt="Alpine">
+    </a>
+    <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="32px" alt="React">
     </a>
     <a href="https://vuejs.org/">
         <img src="https://skillicons.dev/icons?i=vue" width="32px" alt="Vue">
@@ -74,6 +83,15 @@
     </a>
     <a href="https://astro.build/">
         <img src="https://skillicons.dev/icons?i=astro" width="32px" alt="Astro">
+    </a>
+    <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="32px" alt="Node.js">
+    </a>
+    <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="32px" alt="Express">
+    </a>
+    <a href="https://vitejs.dev/">
+        <img src="https://skillicons.dev/icons?i=vite" width="32px" alt="Vite">
     </a>
     <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=py" width="32px" alt="Python">
@@ -87,14 +105,23 @@
     <a href="https://www.mysql.com/">
         <img src="https://skillicons.dev/icons?i=mysql" width="32px" alt="MySQL">
     </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="32px" alt="PostgreSQL">
+    </a>
     <a href="https://www.postman.com/">
         <img src="https://skillicons.dev/icons?i=postman" width="32px" alt="Postman">
     </a>
     <a href="https://aws.amazon.com/">
         <img src="https://skillicons.dev/icons?i=aws" width="32px" alt="AWS">
     </a>
+    <a href="https://cloud.google.com/">
+        <img src="https://skillicons.dev/icons?i=gcp" width="32px" alt="Google Cloud Platform">
+    </a>
     <a href="https://linuxmint.com/">
         <img src="https://skillicons.dev/icons?i=linux" width="32px" alt="Linux">
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" width="32px" alt="Docker">
     </a>
 </p>
 
@@ -102,35 +129,17 @@
 <h3 align="center">📖 Learning process</h3>
 <h4 align="center">🤓 About software development</h4>
 <p align="center">
-    <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwindcss" width="32px" alt="Tailwind CSS">
-    </a>
     <a href="https://mui.com/">
         <img src="https://skillicons.dev/icons?i=materialui" width="32px" alt="MaterialUI">
     </a>
-    <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="32px" alt="TypeScript">
-    </a>
-    <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=react" width="32px" alt="React">
-    </a>
     <a href="https://angular.dev/">
         <img src="https://skillicons.dev/icons?i=angular" width="32px" alt="Angular">
-    </a>
-    <a href="https://vitejs.dev/">
-        <img src="https://skillicons.dev/icons?i=vite" width="32px" alt="Vite">
     </a>
     <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="32px" alt="Nextjs">
     </a>
     <a href="https://nuxt.com/">
         <img src="https://skillicons.dev/icons?i=nuxt" width="32px" alt="Nuxt">
-    </a>
-    <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="32px" alt="Node.js">
-    </a>
-    <a href="https://expressjs.com/">
-        <img src="https://skillicons.dev/icons?i=express" width="32px" alt="Express">
     </a>
     <a href="https://www.mongodb.com/">
         <img src="https://skillicons.dev/icons?i=mongodb" width="32px" alt="MongoDB">
@@ -162,9 +171,6 @@
 </p>
 <h4 align="center">☁ About DevOps</h4>
 <p align="center" width="200">
-    <a href="https://cloud.google.com/">
-        <img src="https://skillicons.dev/icons?i=gcp" width="32px" alt="Google Cloud Platform">
-    </a>
     <a href="">
         <img src="https://skillicons.dev/icons?i=azure" width="32px" alt="Azure">
     </a>
