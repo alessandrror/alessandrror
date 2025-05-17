@@ -250,9 +250,7 @@
 ---
 
 <h3>📊 Profile's stats</h3>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=alessandrror&label=Profile%20Views&color=12&icon=4&pretty=true" alt="Visit Count Github"/>
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lessandrror&label=Profile%20Views&color=171717&icon=4&pretty=true&style=flat" alt="wmoralesdev" /> </p>
 <p align="center">
 </p>
 <!-- To add more stats use: &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage in the query params -->
