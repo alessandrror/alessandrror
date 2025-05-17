@@ -20,8 +20,8 @@ I’m Alessandro Rivas, an excelent Fullstack Developer (frontend focused) from 
 
 <!-- To add more stats use: &show=reviews&discussions_started&discussions_answered&prs_merged&prs_merged_percentage in the query params -->
 ![Profile most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=compact&langs_count=10&hide_progress=true&card_width=200)
-![Profile stats](https://github-readme-stats.vercel.app/api?username=alessandrror&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&card_width=200)
-![Profile streaks](https://github-readme-streak-stats.herokuapp.com/?user=alessandrror&theme=transparent&hide_border=true)
+![Profile stats](https://github-readme-stats.vercel.app/api?username=alessandrror&theme=dark&hide_border=true&show_icons=true&icon_color=FFFFFF&custom_title=Actions&nbsp;Commited&bg_color=00000000&card_width=200)
+[![Profile streaks](https://github-readme-streak-stats.herokuapp.com?user=alessandrror&theme=transparent&hide_border=true&sideLabels=B4B4B4&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&fire=F19EFF&currStreakLabel=B4B4B4&excludeDaysLabel=B4B4B4&dates=B4B4B4&stroke=FFFFFF&border=FFFFFF)](https://git.io/streak-stats)
 
 <!-- <p>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
