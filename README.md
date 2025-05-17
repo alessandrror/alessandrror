@@ -19,7 +19,7 @@ I’m Alessandro Rivas, an excelent Fullstack Developer from El Salvador 🇸�
 ### 📊 Account information
 
 <!-- To add more stats use: &show=reviews&discussions_started&discussions_answered&prs_merged&prs_merged_percentage in the query params -->
-![Profile streaks](https://github-readme-streak-stats.herokuapp.com/?user=alessandrror&theme=highcontrast&hide_border=true&card_width=350&card_height=50)
+![Profile streaks](https://github-readme-streak-stats.herokuapp.com/?user=alessandrror&theme=transparent&hide_border=true&card_width=350&card_height=50)
 ![Profile most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrror&theme=dark&bg_color=00000000&hide_border=true&layout=compact&langs_count=10&hide_progress=true&card_width=350&card_height=50)
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=alessandrror&theme=dark&hide_border=true&show_icons=true&bg_color=00000000&card_width=350&card_height=50)
 
