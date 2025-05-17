@@ -4,7 +4,7 @@
 
 ### 💫 About me
 
-I’m Alessandro Rivas, an excelent Fullstack Developer from El Salvador 🇸🇻. For over two years, I've been developing applications that allow people to easily complete procedures that are more difficult to complete in person than online 🏆.
+I’m Alessandro Rivas, an excelent Fullstack Developer (frontend focused) from El Salvador 🇸🇻. For over two years, I've been developing applications that allow people to easily complete procedures that are more difficult to complete in person than online 🏆.
 
 ![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=alessandrror&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&bg=true&column=9)
 
